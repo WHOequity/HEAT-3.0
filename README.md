@@ -17,7 +17,7 @@ Results can be exported and saved in different formats.
 <hr>
 
 Health Equity Assessment Toolkit (HEAT): Software for exploring and comparing 
-health inequalities in countries. Upload database edition. Version 3.0. 
+health inequalities in countries. Built-in database edition. Version 3.0. 
 Geneva, World Health Organization, 2018. 
 
 
